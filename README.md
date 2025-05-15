@@ -1,9 +1,9 @@
 ## 💫 About Me:
-👨‍💻 Passionate Data Scientist with a background in computer science and applied mathematics, specializing in data analysis and machine learning.
+👨‍💻 Data Scientist with a background in computer science and applied mathematics, specializing in data analysis and machine learning.
 
 🔧 Skilled in Python, R, SQL and machine learning tools, with hands-on experience in building predictive models and data pipelines.
 
-📂 Feel free to explore my repositories, where I've worked on various data science and computer science projects. Each repository is carefully structured and documented, making the code easy to understand and follow. Whether it's machine learning, data visualization, or exploratory analysis, you’ll find well-organized examples of my work that showcase my approach to solving real-world problems. Among all my projects, the one most relevant to data science is a complete study with API deployment, available here : [Data Science Portfolio]().
+📂 Feel free to explore my repositories, where I've worked on various data science and computer science projects. Each repository is carefully structured and documented, making the code easy to understand and follow. Whether it's machine learning, data visualization, or exploratory analysis, you’ll find well-organized examples of my work that showcase my approach to solving real-world problems. Among all my projects, the one most relevant to data science is a complete study with API deployment, available here : [Data Science Portfolio](https://github.com/vincent-reau/StockAnalysis).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincentreau/)
